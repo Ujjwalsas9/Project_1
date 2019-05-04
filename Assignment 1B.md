@@ -4,7 +4,7 @@
 
 #### Channels:
 ```
-
+A channel is a collection of similar feature bags. For example: when we go to a supermarket and look for fruits section. Then we find that there are many fruits available, for example: apples, oranges, grapes, etc. So, just to understand the concept of channels, we can think of each fruits as a separate channels, apple is a channel, orange is a different channel and so on.
 
 ```
 
