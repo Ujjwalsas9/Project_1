@@ -5,10 +5,12 @@
 #### Channels:
 ```
 
+
 ```
 
 #### Kernels:
 ```
+Kernels are nothing but feature extractors. In a CNN, they are automatically (through backpropagation) selected to extract the features from an image.
 
 ```
 
